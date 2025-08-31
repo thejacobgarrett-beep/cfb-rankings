@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cfb-rankings",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-template-db",
+      "database_id": "9b84ef8d-d425-4d4b-aac5-2d2c774b8b79"
+    }
+  ]
+}
